@@ -6,7 +6,7 @@
 
 **I am an electronic engineer and python developer. I am passionate about using python to facilitate different types of processes. Like automation and network control or as a tool to handle and analyze large amounts of data. As an Electronic engineer I like to look for ways to integrate electronics with python, either for IOT applications or in PLC management**
 
-**Due working in several personal project and scripts, I have learned to work with python, html, css (bootstrap), php, javascript (Jquery) and Mysql. Currently I'm studying Cybersecurity and deepening my knowledge in python.**
+**Due working in several personal project and scripts, I have learned to work with Python, HTML, CSS (Bootstrap 5), PHP, Javascript and Mysql. Currently I'm studying Cybersecurity and deepening my knowledge in python.**
 
 ### Find me in :dart:
 
